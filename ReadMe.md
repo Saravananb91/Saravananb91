@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Saravanan%20B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=55&descSize=17" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-v0--portfolio--saravanan--b.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-saravanan-b.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Visit-my-website-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-saravanan-b.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saravanan--b-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-b-46244b290)
 [![Email](https://img.shields.io/badge/Email-Mrsaravananb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mrsaravananb@gmail.com)
-[![Location](https://img.shields.io/badge/Chennai%2C%20India-Open%20to%20Work-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)]
+![Location](https://img.shields.io/badge/Chennai%2C%20India-Open%20to%20Work-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
