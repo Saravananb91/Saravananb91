@@ -38,7 +38,7 @@ I'm an **AI/ML Engineer** and **M.Sc. Data Science** student at SRM Institute, C
 
 ## 🚀 Featured Projects
 
-### 🤖 [Zubera Bot – AI Financial Advisory Assistant](https://github.com/saravananb91) *(Production – Company IP)*
+### 🤖 [Zubera Bot – AI Financial Advisory Assistant](https://github.com/Saravananb91/zuberabot) *(Production – Company IP)*
 > Real-time stock analysis, MF recommendations & WhatsApp-integrated expense tracking
 
 - Built agentic architecture with custom tools (yfinance + RAG + ChromaDB)
