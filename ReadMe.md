@@ -71,7 +71,7 @@ I'm an **AI/ML Engineer** and **M.Sc. Data Science** student at SRM Institute, C
 
 ---
 
-### 🗣️ [Hybrid QA System for Tamil (Research)](https://github.com/saravananb91/hybrid-QA-system-for-Tamil/tree/main) — *85% Accuracy*
+### 🗣️ [Hybrid QA System for Tamil (Research)](https://github.com/Saravananb91/tamil-qa) — *85% Accuracy*
 > Under review for academic publication
 
 - BERT + LSTM hybrid architecture for low-resource Tamil NLP
