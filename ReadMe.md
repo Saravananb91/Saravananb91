@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-v0--portfolio--saravanan--b.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-saravanan-b.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saravanan--b-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-b-46244b290)
 [![Email](https://img.shields.io/badge/Email-Mrsaravananb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mrsaravananb@gmail.com)
-[![Location][](https://img.shields.io/badge/Chennai%2C%20India-Open%20to%20Work-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/ckR8fgYXJJ2GBfVeA)
+[![Location](https://img.shields.io/badge/Chennai%2C%20India-Open%20to%20Work-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](Chennai, India)
 
 </div>
 
