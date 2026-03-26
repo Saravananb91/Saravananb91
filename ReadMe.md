@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saravanan--b-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-b-46244b290)
 [![Email](https://img.shields.io/badge/Email-Mrsaravananb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mrsaravananb@gmail.com)
 ![Location](https://img.shields.io/badge/Chennai%2C%20India-Open%20to%20Work-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Resume](https://img.shields.io/badge/resume-64366f1?style=for-the-badege&logo=vercel&logocolor=white)](https://drive.google.com/file/d/1EB7khYWSGGL9kBg6AxHeCYa3pab6UXHd/view?usp=sharing)
 
 </div>
 
