@@ -82,7 +82,7 @@ class SaravananB:
 
 | 🗓️ Period | 💼 Role | 🏢 Organization | 🏷️ Type |
 |:---:|:---:|:---:|:---:|
-| **Dec 2025 – Feb 2026** | 🤖 AI Developer Intern | Zubera Digital Technologies | On-site · Production |
+| **Dec 2025 – Apr 2026** | 🤖 AI Developer Intern | Zubera Digital Technologies | On-site · Production |
 | **Jan – Mar 2025** | ☁️ AI-ML Engineer | AWS Academy | Virtual · Certified |
 | **Jul – Sep 2024** | 🌐 AI-ML Engineer | Google for Developers (AICTE) | Virtual · Grade E (Excellent) |
 | **Nov 2023 – Feb 2024** | 📊 Data Scientist Intern | Innodatatics | On-site |
