@@ -440,6 +440,80 @@ class SaravananB:
 
 <div align="center">
 
+### 🖥️ Click around — this terminal actually responds
+
+<table>
+<tr><td>
+
+```
+guest@saravanan-b:~$ ls -la
+```
+<details>
+<summary>▸ run <code>whoami</code></summary>
+<br>
+
+```
+> whoami
+Saravanan B
+AI/ML Engineer | Data Scientist | Chennai, IN
+Status: Open to full-time roles 🟢
+```
+</details>
+
+<details>
+<summary>▸ run <code>cat currently_building.log</code></summary>
+<br>
+
+```
+> cat currently_building.log
+[2026-09] Multi-agent LLM systems on LangGraph
+[2026-08] Advanced RAG — hybrid search + re-ranking
+[2026-07] Tamil NLP QA system → peer review
+[ONGOING] MLOps / vLLM production deployment
+```
+</details>
+
+<details>
+<summary>▸ run <code>./deploy.sh --random-project</code></summary>
+<br>
+
+```
+> ./deploy.sh --random-project
+Spinning up... 🎲
+
+  ┌──────────────────────────────────────────┐
+  │  🩸 Blood Disease Analyzer                │
+  │  YOLOv8 + EfficientNetB3 · 90% accuracy   │
+  │  → github.com/Saravananb91/blood-disease-analysis-
+  └──────────────────────────────────────────┘
+
+Run it again for another pick — repos in rotation:
+zuberabot · Zapdoc · tamil-qa · news-article-classification-
+```
+</details>
+
+<details>
+<summary>▸ run <code>sudo hire --me</code></summary>
+<br>
+
+```
+> sudo hire --me
+[sudo] password for recruiter: ********
+Access granted ✅
+Redirecting to → linkedin.com/in/saravanan-b-aiml09
+```
+</details>
+
+</td></tr>
+</table>
+
+</div>
+
+<br/>
+
+
+<div align="center">
+
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
