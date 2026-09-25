@@ -76,6 +76,13 @@ class SaravananB:
 
 <br clear="right"/>
 
+<div align="center">
+
+<!-- 🧠 Custom-built animated neural network — live SVG, pulses travel across synapses in real time -->
+<img src="./neural-pulse.svg" width="100%" alt="Neural Network Animation"/>
+
+</div>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
