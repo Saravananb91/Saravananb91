@@ -13,7 +13,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6366f1?style=for-the-badge&logoColor=white)](https://v0-portfolio-saravanan-b.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-b-46244b290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-b-aiml09/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mrsaravananb@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1EB7khYWSGGL9kBg6AxHeCYa3pab6UXHd/view?usp=sharing)
 
@@ -22,6 +22,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Saravananb91&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Saravananb91?style=for-the-badge&color=8b5cf6&labelColor=1e1e2e&label=FOLLOWERS)
 ![GitHub User's stars](https://img.shields.io/github/stars/Saravananb91?style=for-the-badge&color=06b6d4&labelColor=1e1e2e&label=TOTAL+STARS)
+
+<br/>
+
+![Status](https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117)
+![Uptime](https://img.shields.io/badge/UPTIME-99.9%25-6366f1?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![Mode](https://img.shields.io/badge/MODE-JOB__HUNTING-8b5cf6?style=for-the-badge&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -160,6 +166,10 @@ class SaravananB:
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FEATURED PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:6366f1,100:0d1117&height=100&section=header&text=FEATURED%20BUILDS&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=60"/>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Featured Projects
 
@@ -365,6 +375,16 @@ class SaravananB:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saravananb91&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/Saravananb91)
 
+<br/>
+
+<!-- 🧊 3D isometric contribution graph — auto-updates daily via GitHub Action (see /.github/workflows/profile-3d.yml) -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contribution Graph"/>
+
+<br/><br/>
+
+<!-- 🐍 Snake eating your contribution graph — auto-updates daily via GitHub Action (see /.github/workflows/snake.yml) -->
+<img src="https://raw.githubusercontent.com/Saravananb91/Saravananb91/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake Animation"/>
+
 </div>
 
 ---
@@ -399,7 +419,7 @@ class SaravananB:
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-v0--portfolio--saravanan--b.vercel.app-6366f1?style=for-the-badge)](https://v0-portfolio-saravanan-b.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saravanan_B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-b-46244b290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saravanan_B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-b-aiml09/)
 [![Gmail](https://img.shields.io/badge/Email-Mrsaravananb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mrsaravananb@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Saravananb91-181717?style=for-the-badge&logo=github)](https://github.com/Saravananb91)
 
